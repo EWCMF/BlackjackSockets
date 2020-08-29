@@ -2,6 +2,7 @@
 Aflevering til programmering
 
 Et blackjack spil lavet med sockets.<br/>
+Applikationsprotokollen baseret på klassens model, men med nogle udvidelser.
 Flere sessioner kan åbnes samtidigt hvor hver session har 2 spillere.<br/>
 Spillet er på engelsk.<br/>
 4 kopier af Client klassen er medført for at vise trådprogrammering.
